@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikula-mih
 - 👀 I’m interested in petroleum engeneering and coding
-- 🌱 I’m currently learning js, c++
+- 🌱 I’m currently learning js, c++, python
 - 💞️ I’m looking to collaborate on webapp projects
 - 📫 How to reach me mikula.mih@gmail.com
 
